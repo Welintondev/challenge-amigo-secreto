@@ -30,3 +30,4 @@ Além disso, foram aplicadas técnicas de:
 * IDE VS Code
 
 # 🎮 Você pode testar o Jogo
+https://challenge-amigo-secreto-six-mu.vercel.app/
